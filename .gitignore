@@ -5,6 +5,9 @@ data/work/
 data/source/images/*
 !data/source/images/*.md
 
+data/work/images/suited/*
+!data/work/images/suited/*.md
+
 data-analysis/output
 __pycache__*
 *keras

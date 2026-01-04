@@ -94,7 +94,7 @@ class MetadataProvider:
     def __get_birthdates(self):
         birthdates_list = []
 
-        for file_path in ['farmaa_birthdates.json','farmb_birthdates.json']:
+        for file_path in ['farma_birthdates.json','farmb_birthdates.json']:
             with open(f'{self.supplies_dir_path}/{file_path}') as json_file:
                 birthdates_list.extend(json.load(json_file)['results'])
         

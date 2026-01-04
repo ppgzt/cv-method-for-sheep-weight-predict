@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+*credentials.json
+
+data/work/
+data/source/images/*
+!data/source/images/*.md
+
+data-analysis/output
+__pycache__*
+*keras
+wandb/
+artifacts/
+support/

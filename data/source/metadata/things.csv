@@ -1,0 +1,297 @@
+age,stage,tag,obs,flags,createdAt,gender,weight,collect_id,thing_id,woolLevel,score
+0.0,2,3059,,['Dorper'],1734523915410,1,9.0,OXlA4HTt69EhKln64Cjz,3MCGfaqaB9KKADZsuSzV,,
+0.0,2,3066,,['Dorper'],1734523765802,0,14.0,OXlA4HTt69EhKln64Cjz,3TvBldZof48yTOSajuTq,,
+0.0,2,3049,,['Dorper'],1734525432144,0,22.0,OXlA4HTt69EhKln64Cjz,FdQcHi0XX5bahIiYifTJ,,
+0.0,2,3031,,['Dorper'],1734525508105,0,23.0,OXlA4HTt69EhKln64Cjz,HMaF69ARbex4bX6c9PUx,,
+0.0,2,3039,,['Dorper'],1734524351062,1,14.0,OXlA4HTt69EhKln64Cjz,J3cT9zyvUfuJNLFuyyZv,,
+0.0,2,3040,,['Dorper'],1734523856870,1,6.0,OXlA4HTt69EhKln64Cjz,NvgU1KcCQkP3tWV5Z2Ji,,
+0.0,2,3034,,['Dorper'],1734523977975,0,15.0,OXlA4HTt69EhKln64Cjz,ORz3rpiMLVjolqVJ5Mh6,,
+0.0,2,3036,,['Dorper'],1734524022373,0,12.0,OXlA4HTt69EhKln64Cjz,d8HyuxDE0pjRDpotdeJq,,
+0.0,2,3067,,['Dorper'],1734524179914,1,8.0,OXlA4HTt69EhKln64Cjz,tAHbMTxpItGcAQPQwRrd,,
+0.0,2,3047,,['Dorper'],1734525482904,0,16.0,OXlA4HTt69EhKln64Cjz,tKuHM8iPXRhPHwqrux8o,,
+0.0,2,3078,,['Dorper'],1734524108691,1,13.0,OXlA4HTt69EhKln64Cjz,wGMUohwzviHPmO9z4urg,,
+,2,0200,,"['Santa Inês', 'Dorper']",1737890713646,1,42.2,UYb4dOtZoiguKcF7SK69,021IK4BJ2GltxzphIRtY,0.0,4.0
+,0,905,,"['Santa Inês', 'Dorper']",1737890107918,1,26.5,UYb4dOtZoiguKcF7SK69,1ZyYYje6YoTxcnkbIbh7,1.0,3.0
+,0,0181,,"['Santa Inês', 'Dorper']",1737889590114,1,37.05,UYb4dOtZoiguKcF7SK69,2DQ80NmEWiE3fOyHdgvB,2.0,3.0
+,0,0276,,"['Santa Inês', 'Dorper']",1737889386246,1,48.8,UYb4dOtZoiguKcF7SK69,38ykN7bhYXzaE7ebrmdl,2.0,2.0
+,0,0797,,"['Santa Inês', 'Dorper']",1737889678826,1,30.15,UYb4dOtZoiguKcF7SK69,3VWP1CJvKsr6TUIxvtoL,,3.0
+,2,0265,,['Santa Inês'],1737889646044,1,53.65,UYb4dOtZoiguKcF7SK69,4HV3xs0i0TW3luSfzXYC,2.0,2.0
+,2,0013,,"['Santa Inês', 'Dorper']",1737888823160,1,30.7,UYb4dOtZoiguKcF7SK69,4VVduhuUTmpx3gEC5Rir,0.0,3.0
+,0,0067,,"['Santa Inês', 'Dorper']",1737889154352,1,52.95,UYb4dOtZoiguKcF7SK69,4bMmbn9JqKNPe9XAQBwt,2.0,3.0
+,2,963,,"['Santa Inês', 'Dorper']",1737889845118,1,33.6,UYb4dOtZoiguKcF7SK69,50xh6D7LBGadWaZkTrFj,2.0,4.0
+,0,0450,,"['Santa Inês', 'Dorper']",1737891483854,1,34.55,UYb4dOtZoiguKcF7SK69,6AMtiyKWUcno9zrAZgtd,2.0,2.0
+,0,951,,"['Santa Inês', 'Dorper']",1737890494692,1,26.3,UYb4dOtZoiguKcF7SK69,6Nr9hWob30YxmDY6zGs5,2.0,3.0
+,2,796,,"['Santa Inês', 'Dorper']",1737891147768,1,38.55,UYb4dOtZoiguKcF7SK69,7zwr9US7A5THB053bhAB,2.0,4.0
+,0,0127,,"['Santa Inês', 'Dorper']",1737891438112,1,44.9,UYb4dOtZoiguKcF7SK69,9gNHeR4sbD4R77mP0ZO9,1.0,2.0
+,2,002,,"['Santa Inês', 'Dorper']",1737888917739,1,46.8,UYb4dOtZoiguKcF7SK69,Ab2zgcGrTLWr1TAd5mY3,,3.0
+,2,919,,"['Santa Inês', 'Dorper']",1737891607208,1,34.5,UYb4dOtZoiguKcF7SK69,AhSR4roP4QDZ20kPbuYf,1.0,3.0
+,2,918,,"['Santa Inês', 'Dorper']",1737891254003,1,33.45,UYb4dOtZoiguKcF7SK69,Ahk7H4mnwdaJbN1FCxdR,2.0,3.0
+,0,0269,,['Santa Inês'],1737888957664,1,47.7,UYb4dOtZoiguKcF7SK69,BCJ5YDIRLPg2YG4C55j7,0.0,3.0
+,0,0042,,"['Santa Inês', 'Dorper']",1737890267480,1,40.25,UYb4dOtZoiguKcF7SK69,CXCx4ecb5daQq1bYN20K,2.0,2.0
+,2,0037,,"['Berganês', 'Santa Inês']",1737889224625,1,39.4,UYb4dOtZoiguKcF7SK69,EMF1Pp9u6P6s5ttWKQO8,0.0,3.0
+,0,0180,,"['Santa Inês', 'Dorper']",1737890452165,1,36.7,UYb4dOtZoiguKcF7SK69,FJTwwRRneP5YAR1SoCc9,2.0,3.0
+,0,0187,,['Santa Inês'],1737890974460,1,36.95,UYb4dOtZoiguKcF7SK69,GdBXy670cMZVenxx19Xy,0.0,4.0
+,2,970,,"['Santa Inês', 'Dorper']",1737890240194,1,32.3,UYb4dOtZoiguKcF7SK69,GkA0oi5FvGWWr0y5wyAI,1.0,3.0
+,2,943,,"['Santa Inês', 'Dorper']",1737890206197,1,27.3,UYb4dOtZoiguKcF7SK69,GuTDJcCQEX4vPQFYzYJT,1.0,4.0
+,2,903,,"['Santa Inês', 'Dorper']",1737890928515,1,35.55,UYb4dOtZoiguKcF7SK69,He5mbbefFwT6UNaupcqW,1.0,4.0
+,0,0189,,"['Santa Inês', 'Dorper']",1737890143756,1,37.8,UYb4dOtZoiguKcF7SK69,HoCuEwLVziLK2Fji5U5I,2.0,3.0
+,2,0954,,"['Santa Inês', 'Dorper']",1737889461164,1,25.25,UYb4dOtZoiguKcF7SK69,KjCHeZr1MV7dUg3sCPqA,0.0,4.0
+,0,001,,"['Santa Inês', 'Dorper']",1737891748592,0,73.85,UYb4dOtZoiguKcF7SK69,LiBei4OSwgKLcbrlAJLe,2.0,3.0
+,0,0455,,"['Santa Inês', 'Dorper']",1737889494592,1,35.6,UYb4dOtZoiguKcF7SK69,MQRjNpPAiqvVqZkquVkO,0.0,2.0
+,0,0244,,"['Santa Inês', 'Dorper']",1737891358429,1,43.85,UYb4dOtZoiguKcF7SK69,NMSYPxZTTqaJKav6L1Z2,2.0,2.0
+,2,0262,,"['Santa Inês', 'Dorper']",1737888767970,1,51.95,UYb4dOtZoiguKcF7SK69,OXkEYT36NMADvZaMMGn8,1.0,2.0
+,2,0460,,"['Santa Inês', 'Dorper']",1737891204787,1,63.0,UYb4dOtZoiguKcF7SK69,Pr177F31aymuli7KnCo1,1.0,4.0
+,0,0048,,"['Santa Inês', 'Dorper']",1737889876754,1,33.8,UYb4dOtZoiguKcF7SK69,Qz8WMq24T8EjJu3droGG,1.0,2.0
+,0,0171,,"['Santa Inês', 'Dorper']",1737891529097,1,43.7,UYb4dOtZoiguKcF7SK69,REUvVzT9dFPxCaVIIrrz,0.0,2.0
+,0,0293,,"['Santa Inês', 'Dorper']",1737890430051,1,41.2,UYb4dOtZoiguKcF7SK69,RUUMwIrAlCikduQtn1Ex,2.0,3.0
+,2,0910,,"['Santa Inês', 'Dorper']",1737889765182,1,31.0,UYb4dOtZoiguKcF7SK69,RWozxLdewgTzhLytPWzQ,2.0,3.0
+,0,965,,"['Santa Inês', 'Dorper']",1737891325694,1,27.5,UYb4dOtZoiguKcF7SK69,SdQpPvOSKbEGytgK5BB5,1.0,3.0
+,2,0050,,"['Santa Inês', 'Dorper']",1737891289953,1,33.35,UYb4dOtZoiguKcF7SK69,U2XLE8n90tGoBEWKHPrJ,1.0,2.0
+,0,912,,"['Santa Inês', 'Dorper']",1737889987301,1,29.1,UYb4dOtZoiguKcF7SK69,XPoXIdZTkysZBTUUs8EL,0.0,3.0
+,2,0215,,"['Santa Inês', 'Dorper']",1737889542048,1,33.8,UYb4dOtZoiguKcF7SK69,Xbjwh8OnimL2PQ1cfLcJ,2.0,3.0
+,2,741,,['Santa Inês'],1737889801513,1,35.5,UYb4dOtZoiguKcF7SK69,XecbJUsqfMdhylN9te3O,0.0,3.0
+,2,0217,,"['Santa Inês', 'Dorper']",1737890742347,1,43.5,UYb4dOtZoiguKcF7SK69,YgPycFntLEKmrvMhfsZ1,2.0,2.0
+,0,0439,,"['Santa Inês', 'Dorper']",1737888867157,1,4.1,UYb4dOtZoiguKcF7SK69,ZQO5lHXsG52hnvIDFune,2.0,2.0
+,2,0197,,"['Santa Inês', 'Dorper']",1737889010124,1,43.8,UYb4dOtZoiguKcF7SK69,ZjLmy34arScldX4918cB,1.0,2.0
+,2,946,,"['Santa Inês', 'Dorper']",1737891106074,1,31.95,UYb4dOtZoiguKcF7SK69,Zv2lIKCAaNOKNYxGFBrO,1.0,3.0
+,0,727,,"['Santa Inês', 'Dorper']",1737890174333,1,28.35,UYb4dOtZoiguKcF7SK69,aeaFb1xHfd8w4Sfa8R0Z,2.0,2.0
+,0,906,,"['Santa Inês', 'Dorper']",1737890303964,1,23.6,UYb4dOtZoiguKcF7SK69,agyD5QmStmPBzqNoc3YN,0.0,2.0
+,2,0278,,"['Santa Inês', 'Dorper']",1737889050143,1,38.85,UYb4dOtZoiguKcF7SK69,bUtJhWnsRz95tbaDaomL,1.0,3.0
+,2,0210,,"['Santa Inês', 'Dorper']",1737889097142,1,43.55,UYb4dOtZoiguKcF7SK69,bYHjUprw22BUifnf4ppR,0.0,3.0
+,0,928,,"['Santa Inês', 'Dorper']",1737890589963,1,26.25,UYb4dOtZoiguKcF7SK69,eXJfABpFkBPzn7OzKIKs,1.0,3.0
+,0,0178,,"['Santa Inês', 'Dorper']",1737890029864,1,39.25,UYb4dOtZoiguKcF7SK69,enWrCN1EMgWu2KvAJLXk,1.0,3.0
+,0,0248,,"['Santa Inês', 'Dorper']",1737889271460,1,50.3,UYb4dOtZoiguKcF7SK69,fUqpMUXmyR589xyxHsBr,2.0,3.0
+,0,0246,,"['Santa Inês', 'Dorper']",1737890999437,1,43.1,UYb4dOtZoiguKcF7SK69,g4pHUmjPWKy4PQhbBEmj,1.0,2.0
+,0,0193,,"['Santa Inês', 'Dorper']",1737890847198,1,42.05,UYb4dOtZoiguKcF7SK69,mzaD5Tt45nmJizZaqcTo,2.0,3.0
+,0,0459,,"['Santa Inês', 'Dorper']",1737889423007,1,48.2,UYb4dOtZoiguKcF7SK69,n83r4nm5kuSfGcNZ83Rj,1.0,3.0
+,0,0271,,"['Santa Inês', 'Dorper']",1737890075106,1,39.9,UYb4dOtZoiguKcF7SK69,ncUaU5GY9uf0ERm2rQwb,0.0,3.0
+,2,0247,,"['Santa Inês', 'Dorper']",1737889309816,1,46.2,UYb4dOtZoiguKcF7SK69,oi4lJkkMf8lv4T5RevB5,2.0,3.0
+,2,955,,"['Santa Inês', 'Dorper']",1737890526946,1,32.35,UYb4dOtZoiguKcF7SK69,plT4BAJnzRP7ithoA69m,1.0,3.0
+,2,792,,"['Santa Inês', 'Dorper']",1737891401735,1,26.95,UYb4dOtZoiguKcF7SK69,pzg54IPMOkRodKUMXEZD,0.0,3.0
+,0,0144,,"['Santa Inês', 'Dorper']",1737890335748,1,45.95,UYb4dOtZoiguKcF7SK69,qEnYa3sAYY3mTcopsC6O,1.0,2.0
+,0,0272,,"['Santa Inês', 'Dorper']",1737889931821,1,46.7,UYb4dOtZoiguKcF7SK69,r6Imju96rZz93mkbaro1,2.0,2.0
+,2,909,,"['Santa Inês', 'Dorper']",1737890375336,1,24.8,UYb4dOtZoiguKcF7SK69,rUczda4wQzhUncdK1sJD,1.0,4.0
+,2,0021,,"['Santa Inês', 'Dorper']",1737891562403,1,35.55,UYb4dOtZoiguKcF7SK69,razloU8hxZK1z5eI9eSo,0.0,2.0
+,0,0793,,"['Santa Inês', 'Dorper']",1737889716511,1,24.9,UYb4dOtZoiguKcF7SK69,tsDtB2Ex3pDo5um6aJcB,2.0,2.0
+,2,0214,,"['Santa Inês', 'Dorper']",1737891057377,1,50.05,UYb4dOtZoiguKcF7SK69,u5l1yWJKrYEGQ4wVOLAT,1.0,1.0
+,2,0057,,"['Santa Inês', 'Dorper']",1737888707550,1,42.5,UYb4dOtZoiguKcF7SK69,vT37YfkHt1OCxqO67z0v,0.0,2.0
+,0,0282,,"['Santa Inês', 'Dorper']",1737890670291,1,41.8,UYb4dOtZoiguKcF7SK69,w2raVQrfxE35kYMZJ1S2,2.0,2.0
+,0,0025,,"['Santa Inês', 'Dorper']",1737890892889,1,49.15,UYb4dOtZoiguKcF7SK69,wY6zSiXyrP0DZ28THc0O,1.0,3.0
+,0,0191,,"['Santa Inês', 'Dorper']",1737889346947,1,36.75,UYb4dOtZoiguKcF7SK69,xXvbtydhv49zRtEN3TGX,2.0,2.0
+,2,937,,"['Santa Inês', 'Dorper']",1737890793546,1,25.75,UYb4dOtZoiguKcF7SK69,ymHYx0I1jLWb9xWA0g9n,1.0,3.0
+4.0,2,5127,,['Dorper'],1731156879800,1,47.0,dZFVs4MkQa1py9r9Nguj,A1hBJRtK00cm5GCBlKGr,,
+2.0,2,0466,,['Dorper'],1731157035574,1,30.0,dZFVs4MkQa1py9r9Nguj,FUEeItRvrI0KncjGPcqF,,
+1.0,2,2632,,['Dorper'],1731155461407,0,44.0,dZFVs4MkQa1py9r9Nguj,IfX6PRnSe1CNqmbC8EiW,,
+4.0,2,8213,,['Dorper'],1731155417076,0,66.0,dZFVs4MkQa1py9r9Nguj,Il4H474ihUCLTpKEixn5,,
+0.0,2,3066,,['Dorper'],1731157644417,0,10.0,dZFVs4MkQa1py9r9Nguj,Im2WnPrdFtb8gSLX1AQY,,
+0.0,2,3039,,['Dorper'],1731157820293,1,12.0,dZFVs4MkQa1py9r9Nguj,NlXYLpogjgxiVacuPieo,,
+4.0,2,2512,la somente em cima,['Dorper'],1731154910058,0,65.0,dZFVs4MkQa1py9r9Nguj,PzBYpJ5UCzPPVqmEMdEb,,
+4.0,2,5003,,['Dorper'],1731156235851,1,35.0,dZFVs4MkQa1py9r9Nguj,Qus670Ydh4s4OFWy86Cf,,
+4.0,2,0201,,['Dorper'],1731154759095,0,62.0,dZFVs4MkQa1py9r9Nguj,TCaWHvEyC8Plyb7kfi42,,
+4.0,2,8316,,['Dorper'],1731154775941,0,65.0,dZFVs4MkQa1py9r9Nguj,Vax9kyixADu9fgJXVUNX,,
+4.0,2,5092,,['Dorper'],1731154663406,0,43.0,dZFVs4MkQa1py9r9Nguj,WfzlaU0lPHkmyJ0CMEIV,,
+4.0,2,6014,,['Dorper'],1731154710078,0,56.0,dZFVs4MkQa1py9r9Nguj,WzffTS3ZVfLPsQKeRjgg,,
+4.0,2,7901,,['Dorper'],1731156646494,1,60.0,dZFVs4MkQa1py9r9Nguj,Z3VrGowJ9z5NkFQwqmqG,,
+0.0,2,3067,,['Dorper'],1731157545524,1,8.0,dZFVs4MkQa1py9r9Nguj,aeGATTBOP6uFj3V4j9gi,,
+4.0,2,9470,,['Dorper'],1731154617962,0,63.0,dZFVs4MkQa1py9r9Nguj,cKgD9fg4uiB4yv0WI49j,,
+4.0,2,6603,,['Dorper'],1731155438440,0,52.0,dZFVs4MkQa1py9r9Nguj,dmA389EHDN7XxCbwALTL,,
+4.0,2,4893,,['Dorper'],1731156590512,1,56.0,dZFVs4MkQa1py9r9Nguj,eGKuxcsk3UqbOaloxtXR,,
+0.0,2,3078,,['Dorper'],1731157695569,1,12.0,dZFVs4MkQa1py9r9Nguj,gqkGycXIRBsM1tWCLMBh,,
+0.0,2,3058,,['Dorper'],1731157750103,0,9.0,dZFVs4MkQa1py9r9Nguj,pm1b9GB2WS3tPM3D50T9,,
+4.0,2,4897,,['Dorper'],1731156756467,1,50.0,dZFVs4MkQa1py9r9Nguj,tO7oMBfqJlN1pxUlr6YR,,
+4.0,2,5080,,['Dorper'],1731156347841,1,49.0,dZFVs4MkQa1py9r9Nguj,txVx4AtRCv2vyXhUW7PJ,,
+4.0,2,5126,,['Dorper'],1731156487018,1,45.0,dZFVs4MkQa1py9r9Nguj,tyZCjtGaIPt7F3lrIB0o,,
+4.0,2,2640,,['Dorper'],1731154636979,0,43.0,dZFVs4MkQa1py9r9Nguj,u1T2Jrju9VZQJKGG23qF,,
+,2,1001,,['Dorper'],1737803648662,0,7.7,of8VwxX9TG1PMJhhx8kf,0H0P02DmDniAyI9krMhA,0.0,5.0
+,2,0472,,"['Santa Inês', 'Dorper']",1737804798039,1,41.7,of8VwxX9TG1PMJhhx8kf,0ZwJ8fjJa9TowXrYWhEE,0.0,3.0
+,2,0253,,"['Santa Inês', 'Dorper']",1737808790453,1,53.65,of8VwxX9TG1PMJhhx8kf,1blNoXOaGTVs8uJGMp52,1.0,3.0
+,2,995,,"['Santa Inês', 'Dorper']",1737807393947,0,15.2,of8VwxX9TG1PMJhhx8kf,29zbjwAwT72WxaM2NJKf,0.0,5.0
+,2,0024,,"['Santa Inês', 'Dorper']",1737805764359,1,41.15,of8VwxX9TG1PMJhhx8kf,2ttYmLWSz3gTJr7nWhqH,2.0,2.0
+,2,0074,,"['Santa Inês', 'Dorper']",1737805120831,1,47.9,of8VwxX9TG1PMJhhx8kf,3QhziFI8oXXGiVzmqQWR,1.0,2.0
+,2,0170,,"['Santa Inês', 'Dorper']",1737808660634,1,29.7,of8VwxX9TG1PMJhhx8kf,4rOgL6t7xvsBFUATrcm2,2.0,2.0
+,2,998,,['Dorper'],1737803881582,0,13.2,of8VwxX9TG1PMJhhx8kf,5VeOdWjppG9Ul9U8AV06,0.0,5.0
+,2,1000,,['Dorper'],1737803283882,1,14.65,of8VwxX9TG1PMJhhx8kf,6yFm02gHgvVSCNtGt0Rw,0.0,5.0
+,2,992,,['Dorper'],1737803615430,1,16.3,of8VwxX9TG1PMJhhx8kf,8YGvqGP1Gz5D2FBmBTYn,0.0,5.0
+,2,510,,"['Santa Inês', 'Dorper']",1737807462584,0,10.65,of8VwxX9TG1PMJhhx8kf,8hAkdrg4RPbsGpBfpe7j,0.0,5.0
+,2,1003,,"['Santa Inês', 'Dorper']",1737806833661,0,6.9,of8VwxX9TG1PMJhhx8kf,9wul9uFNqQTqALFhIB5O,0.0,5.0
+,0,0142,,"['Santa Inês', 'Dorper']",1737809322638,1,44.3,of8VwxX9TG1PMJhhx8kf,BRFZvtuUBmbisZRoEMDH,1.0,3.0
+,2,000742,,"['Santa Inês', 'Dorper']",1737804578034,1,44.95,of8VwxX9TG1PMJhhx8kf,C6q3et9Ucor3cQ6B5xm5,0.0,3.0
+,2,509,,['Dorper'],1737804078424,0,8.85,of8VwxX9TG1PMJhhx8kf,DfDcxhzb813jbkSKTgpv,0.0,5.0
+,2,0254,,"['Santa Inês', 'Dorper']",1737805999323,1,37.7,of8VwxX9TG1PMJhhx8kf,EH6uy6sLgeWH7DQCr6Fr,1.0,2.0
+,2,0250,,"['Santa Inês', 'Dorper']",1737806062609,1,43.75,of8VwxX9TG1PMJhhx8kf,EfTkwboJhC7eO7mw8o3X,1.0,2.0
+,2,972,,"['Santa Inês', 'Dorper']",1737815253055,0,17.75,of8VwxX9TG1PMJhhx8kf,FsJCmAd67TJ4KA9DUgg7,0.0,5.0
+,2,0275,,['Dorper'],1737804711005,1,58.15,of8VwxX9TG1PMJhhx8kf,GWiCJzahIl62Pd1AwqiQ,2.0,4.0
+,2,985,,"['Santa Inês', 'Dorper']",1737806977335,1,20.3,of8VwxX9TG1PMJhhx8kf,HRFbgX0KqvJH6IauCK13,0.0,5.0
+,2,983,,"['Santa Inês', 'Dorper']",1737806779495,1,16.05,of8VwxX9TG1PMJhhx8kf,IxAJYjvmH7doey9dV7Sy,0.0,5.0
+1.0,2,1002,,['Dorper'],1737803245833,0,4.25,of8VwxX9TG1PMJhhx8kf,JrhmccKhWLVpKadAskxU,0.0,
+,2,0458,,"['Santa Inês', 'Dorper']",1737806357482,1,46.6,of8VwxX9TG1PMJhhx8kf,K8hCZ1UVuwyxjIxDC3mz,2.0,2.0
+,2,997,,['Dorper'],1737803326553,0,14.0,of8VwxX9TG1PMJhhx8kf,K9QKYRo1klTQfDuj58rZ,0.0,5.0
+,2,0101,,"['Santa Inês', 'Dorper']",1737809188339,1,46.65,of8VwxX9TG1PMJhhx8kf,KZPuy64rJMBsi15eiLIN,2.0,4.0
+,2,0190,,"['Santa Inês', 'Dorper']",1737815041041,1,34.4,of8VwxX9TG1PMJhhx8kf,KjCXDNcDZEGqWev3368P,1.0,3.0
+,2,990,,"['Santa Inês', 'Dorper']",1737807629465,0,29.65,of8VwxX9TG1PMJhhx8kf,LZ9Hm8tWex5D47nPWUX3,0.0,5.0
+,2,0188,,"['Santa Inês', 'Dorper']",1737804502252,1,29.65,of8VwxX9TG1PMJhhx8kf,Li0PPmEE0mJx3e0fQyJ4,0.0,2.0
+,2,0186,,"['Santa Inês', 'Dorper']",1737806272032,1,33.4,of8VwxX9TG1PMJhhx8kf,MbN7dWtPe2AhqfgAEUEX,1.0,2.0
+,2,0128,,"['Santa Inês', 'Dorper']",1737808919316,1,35.0,of8VwxX9TG1PMJhhx8kf,NAmvD9ytvupDGxiV3C4a,2.0,3.0
+,2,0029,,"['Santa Inês', 'Dorper']",1737809119498,1,32.9,of8VwxX9TG1PMJhhx8kf,NEHXaibrCbSlM83Gknee,2.0,3.0
+,2,973,,"['Santa Inês', 'Dorper']",1737807526183,0,16.1,of8VwxX9TG1PMJhhx8kf,NOs7Rn6OQxLaeFKDU8n9,0.0,5.0
+,2,0014,,"['Santa Inês', 'Dorper']",1737805465470,1,30.2,of8VwxX9TG1PMJhhx8kf,O5wPj3DHXhXi48GuPfD6,2.0,2.0
+,2,974,,"['Santa Inês', 'Dorper']",1737807340939,1,17.65,of8VwxX9TG1PMJhhx8kf,P7lr2QvWOAP6JmUhu1tG,0.0,5.0
+,2,0035,,"['Santa Inês', 'Dorper']",1737805840235,1,29.85,of8VwxX9TG1PMJhhx8kf,PE0t2BU9p9bjXYCqffyo,0.0,3.0
+,2,982,,['Dorper'],1737803359936,1,17.9,of8VwxX9TG1PMJhhx8kf,POwChBmKnJiUjAdX3PFB,0.0,5.0
+,2,504,,['Dorper'],1737803753608,1,15.45,of8VwxX9TG1PMJhhx8kf,QH27ENtcJ6sohqHAtTC7,0.0,5.0
+,2,192,,"['Santa Inês', 'Dorper']",1737808219247,1,37.4,of8VwxX9TG1PMJhhx8kf,QsooLnBW8NgLKdekFF7F,1.0,2.0
+,2,0438,,"['Santa Inês', 'Dorper']",1737806147936,1,38.7,of8VwxX9TG1PMJhhx8kf,RDm5bXLBvvSFQLJFk4qD,0.0,3.0
+,2,977,,"['Santa Inês', 'Dorper']",1737807692425,0,20.35,of8VwxX9TG1PMJhhx8kf,RKg1niMHXUTAAv4Su0ZD,0.0,5.0
+,2,975,,"['Santa Inês', 'Dorper']",1737806911105,0,18.2,of8VwxX9TG1PMJhhx8kf,SfCAdVVBlzveBsOAmKtf,0.0,5.0
+,2,0468,,"['Santa Inês', 'Dorper']",1737805203506,1,40.5,of8VwxX9TG1PMJhhx8kf,ThIUfsQhpcxZBUn5tiGy,0.0,2.0
+,2,505,,"['Santa Inês', 'Dorper']",1737807300665,1,12.3,of8VwxX9TG1PMJhhx8kf,TpeUbEpY3o5JWsRWaTJE,0.0,5.0
+,2,989,,['Dorper'],1737803999988,0,20.9,of8VwxX9TG1PMJhhx8kf,U09AqtNKceRko0oaGjCz,0.0,5.0
+,2,503,,['Dorper'],1737803401891,1,10.6,of8VwxX9TG1PMJhhx8kf,XJTW0u2gdh7iVCtR0x2V,0.0,5.0
+,2,0047,,"['Santa Inês', 'Dorper']",1737809282926,1,44.75,of8VwxX9TG1PMJhhx8kf,Z4fUNm6iiq9A2rlLKU7i,2.0,4.0
+,2,507,,"['Santa Inês', 'Dorper']",1737807121663,0,12.5,of8VwxX9TG1PMJhhx8kf,a79zHS4jx8S6fe1OYOEF,0.0,5.0
+,2,1005,,"['Santa Inês', 'Dorper']",1737808133839,1,54.0,of8VwxX9TG1PMJhhx8kf,bgB3Qybk956QCogKgKZe,1.0,2.0
+,2,984,,['Dorper'],1737803801104,0,16.4,of8VwxX9TG1PMJhhx8kf,c1MczikEl7cJRzBwSyFL,0.0,5.0
+,2,0026,,"['Santa Inês', 'Dorper']",1737806233481,1,42.4,of8VwxX9TG1PMJhhx8kf,ca8laxmXZBbrgxru3WVj,0.0,4.0
+,2,138,,"['Santa Inês', 'Dorper']",1737804447890,1,53.15,of8VwxX9TG1PMJhhx8kf,eQZ0y1LOgy6kKqAIsLAv,0.0,3.0
+,2,0062,,"['Santa Inês', 'Dorper']",1737808594326,1,42.3,of8VwxX9TG1PMJhhx8kf,egbveuFX7hSAg8Cgwuya,0.0,2.0
+,2,978,,"['Santa Inês', 'Dorper']",1737807426288,0,21.0,of8VwxX9TG1PMJhhx8kf,gOknL17oYR2BnAKt2pPB,0.0,5.0
+,2,0044,,"['Santa Inês', 'Dorper']",1737808532539,1,30.85,of8VwxX9TG1PMJhhx8kf,gX3CoXOLhrleHRxp7gNf,1.0,2.0
+,2,506,,['Dorper'],1737803528457,0,17.3,of8VwxX9TG1PMJhhx8kf,hRusM1M1nswciprtiLK5,0.0,5.0
+,2,006,,"['Santa Inês', 'Dorper']",1737808402635,1,47.9,of8VwxX9TG1PMJhhx8kf,hoJnyIafRJWNoC6TZaF8,0.0,3.0
+,2,511,,['Dorper'],1737803441622,0,11.3,of8VwxX9TG1PMJhhx8kf,j1ek07l0CJnNev3AYnAJ,0.0,5.0
+,2,010,,"['Santa Inês', 'Dorper']",1737808326018,1,44.2,of8VwxX9TG1PMJhhx8kf,jNVoLqyy5bfTPWcdgsgg,1.0,2.0
+,2,502,,['Dorper'],1737803711457,1,15.5,of8VwxX9TG1PMJhhx8kf,k1rtm0aBNCYmWmPJ8XsY,0.0,5.0
+,2,0015,,"['Santa Inês', 'Dorper']",1737808271333,1,35.1,of8VwxX9TG1PMJhhx8kf,kZEJLOSQqT9gbr5LAIQg,1.0,2.0
+,2,0126,,"['Santa Inês', 'Dorper']",1737805047955,1,43.3,of8VwxX9TG1PMJhhx8kf,lfDcgA4V3DZ7c7ickaZZ,0.0,2.0
+,2,971,,['Dorper'],1737804146634,1,19.4,of8VwxX9TG1PMJhhx8kf,lr4c3M8aEldnZ1rj5fdh,0.0,5.0
+,2,991,,"['Santa Inês', 'Dorper']",1737806946120,0,14.95,of8VwxX9TG1PMJhhx8kf,mGWPXOdroRpptH6cAqXF,0.0,5.0
+,2,0212,,"['Santa Inês', 'Dorper']",1737806438384,1,4.83,of8VwxX9TG1PMJhhx8kf,oaa8sHZWgxkKyXXX8TqY,1.0,3.0
+,2,976,,"['Santa Inês', 'Dorper']",1737813615895,0,13.75,of8VwxX9TG1PMJhhx8kf,ohkGpKflx7KTOIokajFm,0.0,5.0
+,2,0055,,"['Santa Inês', 'Dorper']",1737808474458,1,45.0,of8VwxX9TG1PMJhhx8kf,pTKqkNdVMV29j3No4Fs2,2.0,3.0
+,2,263,,"['Santa Inês', 'Dorper']",1737807943787,1,41.75,of8VwxX9TG1PMJhhx8kf,q5HypzVEAWnBKOHVSmYE,1.0,2.0
+,2,0183,,"['Santa Inês', 'Dorper']",1737805285435,1,51.05,of8VwxX9TG1PMJhhx8kf,qFcOphAtgSpJlxOe88Jo,2.0,3.0
+,2,0056,,"['Santa Inês', 'Dorper']",1737804880482,1,43.55,of8VwxX9TG1PMJhhx8kf,qrpVXkP4reHoqmL70gd7,0.0,3.0
+,0,975,,['Dorper'],1737803970816,0,2.435,of8VwxX9TG1PMJhhx8kf,sVZxgqnaHyLkFJMHWlXj,0.0,5.0
+,2,799,,"['Santa Inês', 'Dorper']",1737807853757,0,64.35,of8VwxX9TG1PMJhhx8kf,sqRvFZwuSn0wXtovC8kF,1.0,4.0
+,0,0590,,"['Santa Inês', 'Dorper']",1737805563335,1,35.7,of8VwxX9TG1PMJhhx8kf,sxAYjEeyCg21UHIyqLg4,1.0,2.0
+,2,0184,,"['Santa Inês', 'Dorper']",1737805354869,1,33.3,of8VwxX9TG1PMJhhx8kf,t7bfO9bfXXXRsM9hlXUl,1.0,2.0
+,2,987,,['Dorper'],1737804047495,0,21.3,of8VwxX9TG1PMJhhx8kf,tCxJA9f3Y9pdVsRkGQ3a,0.0,5.0
+,2,994,,"['Santa Inês', 'Dorper']",1737806871669,1,19.85,of8VwxX9TG1PMJhhx8kf,tja7Qqfq46BcYKP02Z8i,0.0,5.0
+,2,999,,['Dorper'],1737804103080,0,13.9,of8VwxX9TG1PMJhhx8kf,uGIfTxI5NjqvKLLsShT4,0.0,5.0
+,2,0020,,"['Santa Inês', 'Dorper']",1737808730405,1,33.85,of8VwxX9TG1PMJhhx8kf,uVdDQIdjayqHQaRkeL4V,0.0,3.0
+,2,996,,"['Santa Inês', 'Dorper']",1737807249340,1,13.05,of8VwxX9TG1PMJhhx8kf,uwxxjlhEAUNb6O1E2Df5,0.0,5.0
+,2,0473,,"['Santa Inês', 'Dorper']",1737808861981,1,94.35,of8VwxX9TG1PMJhhx8kf,vN1Rq0IKmDLQwkRf0OP7,2.0,3.0
+,2,0463,,"['Santa Inês', 'Dorper']",1737808989344,1,44.65,of8VwxX9TG1PMJhhx8kf,wY7JJYa3tii4kSf9pN1H,0.0,3.0
+,2,981,,"['Santa Inês', 'Dorper']",1737807188970,0,21.55,of8VwxX9TG1PMJhhx8kf,weuHtNJSaM4jD1necOOz,0.0,5.0
+,2,0277,,"['Santa Inês', 'Dorper']",1737808002556,1,42.7,of8VwxX9TG1PMJhhx8kf,wxQWar4b3KtXqJAzSPys,0.0,2.0
+,2,0182,,"['Santa Inês', 'Dorper']",1737815140357,1,33.7,of8VwxX9TG1PMJhhx8kf,x5ODpfivvOSC9KzRDgjR,1.0,3.0
+,2,993,,['Dorper'],1737803684618,1,15.1,of8VwxX9TG1PMJhhx8kf,xbJgoyFd8bXOFhQ1c6br,0.0,5.0
+,2,0456,,"['Santa Inês', 'Dorper']",1737804997089,1,33.7,of8VwxX9TG1PMJhhx8kf,xbKSq98dA9tZe0sjkgWC,2.0,2.0
+,2,508,,['Dorper'],1737803562452,0,13.2,of8VwxX9TG1PMJhhx8kf,yQprKvsTACGWr2Ar5DnL,0.0,5.0
+,2,0219,,"['Santa Inês', 'Dorper']",1737805661795,1,51.6,of8VwxX9TG1PMJhhx8kf,ycc74CLvCt23KAjnHFTj,1.0,2.0
+,2,0428,,"['Santa Inês', 'Dorper']",1737805928796,1,39.2,of8VwxX9TG1PMJhhx8kf,yehKLuyY9g1uL39F31Vs,2.0,2.0
+,2,986,,['Dorper'],1737803834563,1,17.7,of8VwxX9TG1PMJhhx8kf,zIU6ld1ffI2y6EdOY16K,0.0,5.0
+,2,59,,['Dorper'],1737804341514,0,83.65,of8VwxX9TG1PMJhhx8kf,zbbrTxhhcZBu0NL7dnuZ,1.0,3.0
+,2,988,,['Dorper'],1737803493429,1,18.75,of8VwxX9TG1PMJhhx8kf,zcrGV19YXnfoF4pRYHLS,0.0,5.0
+,2,0118vd,,"['Santa Inês', 'Dorper']",1737833416675,1,24.35,pCxbeJYAIoIqLgEz87pB,0oCQhGHXXlDqqqV7eFCJ,0.0,5.0
+,2,0047az,,"['Santa Inês', 'Dorper']",1737830409733,1,42.9,pCxbeJYAIoIqLgEz87pB,1lpzMpxK7Q4XDDa0Vuet,0.0,4.0
+,2,6mf,,"['Santa Inês', 'Dorper']",1737838160743,0,9.3,pCxbeJYAIoIqLgEz87pB,2XRc4DYLS1y0kCzEzSMo,0.0,5.0
+,2,0134az,,"['Santa Inês', 'Dorper']",1737833334988,1,14.4,pCxbeJYAIoIqLgEz87pB,2cxH3edqfiAyRCiS12jq,0.0,5.0
+,2,0137az,,"['Santa Inês', 'Dorper']",1737833095800,1,12.8,pCxbeJYAIoIqLgEz87pB,2uyLEd3dD7nwEltlRgrv,0.0,5.0
+,2,0605az,,"['Santa Inês', 'Dorper']",1737831263292,1,39.85,pCxbeJYAIoIqLgEz87pB,3nOPw3Qyx76yhaK9ruhE,2.0,2.0
+,2,0607az,,"['Santa Inês', 'Dorper']",1737831525392,1,45.4,pCxbeJYAIoIqLgEz87pB,4tg3h8aawaTNkMgRxtgz,2.0,3.0
+,2,0120vd,,"['Santa Inês', 'Dorper']",1737834326129,1,11.6,pCxbeJYAIoIqLgEz87pB,52XNHvcgyKJnGL68GFkB,0.0,5.0
+,2,0024br,,"['Santa Inês', 'Dorper']",1737833728178,1,17.75,pCxbeJYAIoIqLgEz87pB,552OLGo9WtmuC1gZ3403,0.0,5.0
+,2,0071az,,"['Santa Inês', 'Dorper']",1737831578999,1,48.5,pCxbeJYAIoIqLgEz87pB,5WkLylWve5jmmD4P0Het,2.0,2.0
+,2,0515vd,,"['Santa Inês', 'Dorper']",1737831825365,1,46.65,pCxbeJYAIoIqLgEz87pB,5pZoDj1jb4rsoRWIplYU,0.0,3.0
+,2,0028vm,,"['Santa Inês', 'Dorper']",1737832917877,1,16.85,pCxbeJYAIoIqLgEz87pB,6nHTZJMXRhpdcYjhfWFk,0.0,5.0
+,2,0007vm,,"['Santa Inês', 'Dorper']",1737829751909,1,44.7,pCxbeJYAIoIqLgEz87pB,8r06f6QIfoNGBmcIxjB4,2.0,2.0
+,2,67vdf,,"['Santa Inês', 'Dorper']",1737837236014,0,6.6,pCxbeJYAIoIqLgEz87pB,9Lcj2B3FmvOMLeibzsNG,0.0,5.0
+,2,0031az,,"['Santa Inês', 'Dorper']",1737831041730,1,39.6,pCxbeJYAIoIqLgEz87pB,A2PvzJV0stb90o61N4n3,0.0,2.0
+,2,0030am,,"['Santa Inês', 'Dorper']",1737833376849,1,15.8,pCxbeJYAIoIqLgEz87pB,A7BerldFvsKM5bZjDuVs,0.0,5.0
+,2,71azf,,"['Santa Inês', 'Dorper']",1737836986105,0,25.7,pCxbeJYAIoIqLgEz87pB,B6NOJjKrcmbPOnVzSoeT,0.0,5.0
+,2,0129az,,"['Santa Inês', 'Dorper']",1737832875732,1,21.35,pCxbeJYAIoIqLgEz87pB,BQOXpSHqnWQwq8ThPo3Q,0.0,5.0
+,2,802rof,,"['Santa Inês', 'Dorper']",1737837321792,0,17.4,pCxbeJYAIoIqLgEz87pB,BoI5pmB13NXAvloIDoWq,0.0,5.0
+,2,0069az,,"['Santa Inês', 'Dorper']",1737830154276,1,41.2,pCxbeJYAIoIqLgEz87pB,CQeidpYXqbOu5B8cEK92,,2.0
+,2,0020az,,"['Santa Inês', 'Dorper']",1737829818483,1,44.2,pCxbeJYAIoIqLgEz87pB,DQPZyXOdDR510o6poB7v,1.0,2.0
+,2,0125vd,,"['Santa Inês', 'Dorper']",1737833640019,1,15.35,pCxbeJYAIoIqLgEz87pB,Dx9phRGEanSnTwxb6uHt,0.0,5.0
+,2,0130az,,"['Santa Inês', 'Dorper']",1737832351471,1,17.25,pCxbeJYAIoIqLgEz87pB,EcmdmsDQ3dkq5AXA8ZUz,0.0,5.0
+,2,0005vd,,['Dorper'],1737829450090,1,49.0,pCxbeJYAIoIqLgEz87pB,EwWqVEQ98toxVZ8dW5Cs,1.0,3.0
+,2,0065vd,,"['Santa Inês', 'Dorper']",1737829185960,1,32.75,pCxbeJYAIoIqLgEz87pB,FSMFKwQOlpBzgCubaqPO,1.0,2.0
+,2,0043az,,"['Santa Inês', 'Dorper']",1737830638646,1,32.1,pCxbeJYAIoIqLgEz87pB,GDIhrpnWiXIWh46bJnkU,1.0,2.0
+,2,0050vd,,"['Santa Inês', 'Dorper']",1737830305359,1,38.95,pCxbeJYAIoIqLgEz87pB,H0Ul8DGCV03CFN28pyos,0.0,2.0
+,2,0067vd,,"['Santa Inês', 'Dorper']",1737829373394,1,32.5,pCxbeJYAIoIqLgEz87pB,HW4xmvNl0KfumntAyDn6,2.0,2.0
+,2,0123vd,,"['Santa Inês', 'Dorper']",1737833608784,1,15.6,pCxbeJYAIoIqLgEz87pB,HcAcO3TRI2dyQTlVEGUr,0.0,5.0
+,2,4mf,,"['Santa Inês', 'Dorper']",1737838092504,0,9.6,pCxbeJYAIoIqLgEz87pB,Hees0IEJXCfVCVOw9bLg,0.0,5.0
+,2,0127vd,,"['Santa Inês', 'Dorper']",1737833069188,1,14.25,pCxbeJYAIoIqLgEz87pB,IKcaWgp5Sjx6h5JeMPM4,0.0,5.0
+,2,0121vd,,"['Santa Inês', 'Dorper']",1737833034448,1,9.8,pCxbeJYAIoIqLgEz87pB,IdQXnb3BD8hhSsLXb0nm,0.0,5.0
+,2,0119vd,,"['Santa Inês', 'Dorper']",1737832852939,1,20.4,pCxbeJYAIoIqLgEz87pB,IzUu2VgY1B6LIjodAW6d,0.0,5.0
+,2,1mf,,"['Santa Inês', 'Dorper']",1737837657767,0,16.75,pCxbeJYAIoIqLgEz87pB,JP9DDwvRfYbsTQpm4iDF,0.0,5.0
+,2,0126vd,,"['Santa Inês', 'Dorper']",1737832512585,1,15.45,pCxbeJYAIoIqLgEz87pB,L2rhm1elcYhCMuhI5G6G,0.0,5.0
+,2,0140qz,,"['Santa Inês', 'Dorper']",1737833225740,1,12.85,pCxbeJYAIoIqLgEz87pB,LXcYf9yZ49ddv5Qya5Pd,0.0,5.0
+,2,0606az,,"['Santa Inês', 'Dorper']",1737831313122,1,48.85,pCxbeJYAIoIqLgEz87pB,MFLbC4IjyPVKmai3Wfdl,1.0,2.0
+,2,9mf,,"['Santa Inês', 'Dorper']",1737838296853,0,9.85,pCxbeJYAIoIqLgEz87pB,OgNegcEVM4HhddwLNybg,0.0,5.0
+,2,0063vd,,"['Santa Inês', 'Dorper']",1737831881103,1,48.55,pCxbeJYAIoIqLgEz87pB,PgIk2JwBLY5111Lanz0y,1.0,3.0
+,2,0138az,,"['Santa Inês', 'Dorper']",1737833572189,1,11.4,pCxbeJYAIoIqLgEz87pB,QE9mIuQD674D2UPpAuFV,0.0,5.0
+,2,014bmf,,"['Santa Inês', 'Dorper']",1737837184523,0,18.6,pCxbeJYAIoIqLgEz87pB,QXbwbDRk5hzMTMmD4wzb,0.0,5.0
+,2,66vdf,,"['Santa Inês', 'Dorper']",1737837421406,0,12.15,pCxbeJYAIoIqLgEz87pB,RLnbqvIYfpbFPCo6VCMA,0.0,5.0
+,2,0141az,,"['Santa Inês', 'Dorper']",1737832705937,1,8.8,pCxbeJYAIoIqLgEz87pB,RVkirNZmz5HFP564r21p,0.0,5.0
+,2,0128vd,,"['Santa Inês', 'Dorper']",1737833704247,1,5.85,pCxbeJYAIoIqLgEz87pB,S1Bx3HC2NM8tQRUXFmPV,0.0,5.0
+,2,0009ro,,"['Santa Inês', 'Dorper']",1737830935626,1,39.3,pCxbeJYAIoIqLgEz87pB,Sio6gyOxDQGIoyYJ79y5,1.0,2.0
+,2,0014vm,,"['Santa Inês', 'Dorper']",1737830348917,1,47.5,pCxbeJYAIoIqLgEz87pB,SzknnH7lkBZKcs19Zrhm,1.0,3.0
+,2,0902br,,"['Santa Inês', 'Dorper']",1737831219931,1,40.8,pCxbeJYAIoIqLgEz87pB,VRYlJ6xB3QZ6bRMby3VC,2.0,2.0
+,2,0024vd,,"['Santa Inês', 'Dorper']",1737831433453,1,37.2,pCxbeJYAIoIqLgEz87pB,VSOekXGKmyD8ieCI4F3t,1.0,2.0
+,2,0052az,,"['Santa Inês', 'Dorper']",1737829516458,1,46.2,pCxbeJYAIoIqLgEz87pB,W14AP5eXe5RY1xK8Ch1x,1.0,2.0
+,2,3mf,,"['Santa Inês', 'Dorper']",1737838057632,0,13.9,pCxbeJYAIoIqLgEz87pB,WgWnt2CsenvINhyYnOgq,0.0,5.0
+,2,0068vd,,"['Santa Inês', 'Dorper']",1737830190820,1,40.04,pCxbeJYAIoIqLgEz87pB,XPRFfkS1Fx8U4BB7TBRH,2.0,3.0
+,2,0608az,,"['Santa Inês', 'Dorper']",1737831724935,1,44.1,pCxbeJYAIoIqLgEz87pB,XSr6OvsueRljfbfVHwqj,0.0,2.0
+,2,0029am,,"['Santa Inês', 'Dorper']",1737833666155,1,10.55,pCxbeJYAIoIqLgEz87pB,XgOUsnvLVIBcDKeI5lMe,0.0,5.0
+,2,0054az,,"['Santa Inês', 'Dorper']",1737830094788,1,42.8,pCxbeJYAIoIqLgEz87pB,ZYBm1ztCOqqt0wAPSwvR,1.0,2.0
+,2,0138az,,"['Santa Inês', 'Dorper']",1737832994423,1,17.65,pCxbeJYAIoIqLgEz87pB,Zj8MeKEGkubaZlQxRjnm,0.0,5.0
+,2,8mf,,"['Santa Inês', 'Dorper']",1737838254321,0,11.55,pCxbeJYAIoIqLgEz87pB,ZySFTrOOYQrHt38ds5cD,0.0,5.0
+,2,0133az,,"['Santa Inês', 'Dorper']",1737833786691,1,18.3,pCxbeJYAIoIqLgEz87pB,a1T3LYD0YZHviwcWJ9TQ,,
+,2,0117vd,,"['Santa Inês', 'Dorper']",1737832803308,1,24.4,pCxbeJYAIoIqLgEz87pB,aQDTExOK5TtS5G5k2wRX,0.0,5.0
+,2,0005az,,"['Santa Inês', 'Dorper']",1737830272853,1,44.3,pCxbeJYAIoIqLgEz87pB,amQbSM2SqEHxySXmbNkB,1.0,3.0
+,2,0129vd,,"['Santa Inês', 'Dorper']",1737833763542,1,6.65,pCxbeJYAIoIqLgEz87pB,bF4lwl2d0BAmwbZA9CD9,0.0,5.0
+,2,608azf,,"['Santa Inês', 'Dorper']",1737837376471,0,16.9,pCxbeJYAIoIqLgEz87pB,bOgoxiyyHm5yerPCeCrX,0.0,5.0
+,2,0124vd,,"['Santa Inês', 'Dorper']",1737832623590,1,13.65,pCxbeJYAIoIqLgEz87pB,bfEJhCOdSfS4FDuILRKk,0.0,5.0
+,2,0059az,,"['Santa Inês', 'Dorper']",1737830448403,1,38.55,pCxbeJYAIoIqLgEz87pB,bwvEP8lS3Md4WCX64hLA,0.0,4.0
+,2,0053az,,"['Santa Inês', 'Dorper']",1737829869810,1,41.05,pCxbeJYAIoIqLgEz87pB,dxGiFSgWcJL3ewham1e4,2.0,2.0
+,2,0066az,,"['Santa Inês', 'Dorper']",1737829640679,1,43.6,pCxbeJYAIoIqLgEz87pB,efiYGXXjx1mp7uOjltyV,0.0,2.0
+,2,602azf,,"['Santa Inês', 'Dorper']",1737837598034,0,12.85,pCxbeJYAIoIqLgEz87pB,fSKF8iTz49vLruDzQvyz,0.0,5.0
+,2,2mf,,"['Santa Inês', 'Dorper']",1737837999638,0,12.45,pCxbeJYAIoIqLgEz87pB,fVVAl4FaegNzygIiEVje,0.0,5.0
+,2,0009vd,,"['Santa Inês', 'Dorper']",1737830773304,1,43.0,pCxbeJYAIoIqLgEz87pB,gMKEd5pKitgDckUzLjo5,0.0,3.0
+,2,7mf,,"['Santa Inês', 'Dorper']",1737838199496,0,14.6,pCxbeJYAIoIqLgEz87pB,hCfFIoomev9ricb3vwNa,0.0,5.0
+,2,0065az,,"['Santa Inês', 'Dorper']",1737831178984,1,38.9,pCxbeJYAIoIqLgEz87pB,hRBKhuIJnN2KNNesoKuN,0.0,2.0
+,2,0048az,,"['Santa Inês', 'Dorper']",1737830866616,1,37.1,pCxbeJYAIoIqLgEz87pB,hokXXTevL4WWKneSrUdR,2.0,2.0
+,2,0116vd,,"['Santa Inês', 'Dorper']",1737832656915,1,22.05,pCxbeJYAIoIqLgEz87pB,jbXrxxWwGLu4WzfPT3hk,0.0,5.0
+,2,5mf,,"['Santa Inês', 'Dorper']",1737838129176,0,18.0,pCxbeJYAIoIqLgEz87pB,ji3O1Lv5gg38uStwh8eI,0.0,5.0
+,2,902brf,,"['Santa Inês', 'Dorper']",1737837515155,0,16.45,pCxbeJYAIoIqLgEz87pB,jk2C4MjFMC0lo4B5Pqra,0.0,5.0
+,2,0008vm,,"['Santa Inês', 'Dorper']",1737830692472,1,38.8,pCxbeJYAIoIqLgEz87pB,jqRKY9doixDEvKX6wG53,1.0,3.0
+,2,12mf,,"['Santa Inês', 'Dorper']",1737838423694,0,9.7,pCxbeJYAIoIqLgEz87pB,jsycyWbM2o5Xa1oCfRnX,0.0,5.0
+,2,0008vd,,"['Santa Inês', 'Dorper']",1737830230916,1,43.0,pCxbeJYAIoIqLgEz87pB,ljPuiQwbdHD0SqoeTf5A,2.0,2.0
+,2,11mf,,"['Santa Inês', 'Dorper']",1737838372332,0,11.85,pCxbeJYAIoIqLgEz87pB,loHy3PY0vrtFJcxS0nNG,0.0,5.0
+,2,0020vd,,"['Santa Inês', 'Dorper']",1737831995738,1,43.6,pCxbeJYAIoIqLgEz87pB,m3HmpvczI3BdmNnUr2Gv,1.0,3.0
+,2,0010az,,"['Santa Inês', 'Dorper']",1737830995253,1,43.9,pCxbeJYAIoIqLgEz87pB,mqAOy8hUtYi3jZxnVP1a,0.0,2.0
+,2,0610az,,"['Santa Inês', 'Dorper']",1737831765462,1,47.3,pCxbeJYAIoIqLgEz87pB,nHNPkwXonuq7niSh5mAN,0.0,2.0
+,2,0802ro,,"['Santa Inês', 'Dorper']",1737830833429,1,42.3,pCxbeJYAIoIqLgEz87pB,ndgyyDEinZu00lBqSCva,1.0,2.0
+,2,0806ro,,"['Santa Inês', 'Dorper']",1737831626235,1,46.6,pCxbeJYAIoIqLgEz87pB,nrzGiKnejo6cxlJ1kAhQ,1.0,2.0
+,2,0027vm,,"['Santa Inês', 'Dorper']",1737832551956,1,19.85,pCxbeJYAIoIqLgEz87pB,nvtBYVJ5DYxjlGBikI4b,0.0,5.0
+,2,0507vd,,"['Santa Inês', 'Dorper']",1737832043187,1,49.2,pCxbeJYAIoIqLgEz87pB,oPpZinsihcLhefcHafvt,1.0,2.0
+,2,0131az,,"['Santa Inês', 'Dorper']",1737833139838,1,18.3,pCxbeJYAIoIqLgEz87pB,oTVJhw1J4r1KijbkAK4S,0.0,5.0
+,2,0060az,,"['Santa Inês', 'Dorper']",1737830560479,1,39.85,pCxbeJYAIoIqLgEz87pB,ovKAyFayFX77Gk09LBiA,1.0,3.0
+,2,0013ro,,"['Santa Inês', 'Dorper']",1737830898477,1,37.9,pCxbeJYAIoIqLgEz87pB,pFZ5ryomtPspTcY1CQFV,2.0,2.0
+,2,0612az,,"['Santa Inês', 'Dorper']",1737831955429,1,46.35,pCxbeJYAIoIqLgEz87pB,sxGr93eeS1hpxPQwcZ84,0.0,2.0
+,2,806rof,,"['Santa Inês', 'Dorper']",1737837124322,0,19.65,pCxbeJYAIoIqLgEz87pB,szYfz4JJxotDAqVvGLsX,0.0,5.0
+,2,0041vd,,"['Santa Inês', 'Dorper']",1737830521040,1,38.05,pCxbeJYAIoIqLgEz87pB,tDp8WUFiixi9Hmeysvgu,1.0,2.0
+,2,0071vd,,"['Santa Inês', 'Dorper']",1737829581138,1,40.35,pCxbeJYAIoIqLgEz87pB,tG517KIDEmABz92tnPey,1.0,2.0
+,2,0135az,,"['Santa Inês', 'Dorper']",1737832962603,1,16.7,pCxbeJYAIoIqLgEz87pB,tWzzA5lDqtVCv3b6Gc8e,0.0,5.0
+,2,0084az,,"['Santa Inês', 'Dorper']",1737832137459,1,45.6,pCxbeJYAIoIqLgEz87pB,txSIabAzC3cN91PUNcVo,2.0,2.0
+,2,0032az,,"['Santa Inês', 'Dorper']",1737831795980,1,37.7,pCxbeJYAIoIqLgEz87pB,wZ2yENBYKY9RebPBW5ER,2.0,2.0
+,2,0122vd,,"['Santa Inês', 'Dorper']",1737833438223,1,12.5,pCxbeJYAIoIqLgEz87pB,xTOagmPyxD7JMl6rXm9Y,0.0,5.0
+,2,0034az,,"['Santa Inês', 'Dorper']",1737831463615,1,34.35,pCxbeJYAIoIqLgEz87pB,xTW2T6b6gMPYHDd5B0tr,0.0,2.0
+,2,0011br,,"['Santa Inês', 'Dorper']",1737831365462,1,34.85,pCxbeJYAIoIqLgEz87pB,yBXqdBnY41TD3xWUMPMv,1.0,2.0
+,2,0502vd,,"['Santa Inês', 'Dorper']",1737831093658,1,39.0,pCxbeJYAIoIqLgEz87pB,zLbLKyRs33hiGUqo6SlA,0.0,1.0
+,2,0132az,,"['Santa Inês', 'Dorper']",1737832427372,1,16.95,pCxbeJYAIoIqLgEz87pB,zSFdFMHpg5UzyTpwae2U,0.0,5.0
+,2,0506vd,,"['Santa Inês', 'Dorper']",1737830727835,1,45.9,pCxbeJYAIoIqLgEz87pB,zVIfcUGPM9fiK9QwV7Ik,1.0,2.0
+,2,10mf,,"['Santa Inês', 'Dorper']",1737838339094,0,13.5,pCxbeJYAIoIqLgEz87pB,zcH8PYyvnjlSWKPHPSw8,0.0,5.0

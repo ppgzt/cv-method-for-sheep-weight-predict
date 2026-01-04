@@ -1,0 +1,298 @@
+Coleta,Job_id,Situação,Observação
+Farm A,9,Intrusion,O pé de alguém aparece em alguns frames
+Farm A,10,Suited,
+Farm A,11,Suited,
+Farm A,12,Intrusion,"O pé de alguém em alguns frames. Além disso, outros animais conseguem entrar no corredor e são fotografados também."
+Farm A,13,Intrusion,O pé de alguém aparece em alguns frames; O pé de quem registra as imagens também aparece
+Farm A,14,Suited,
+Farm A,15,Suited,
+Farm A,16,Suited,
+Farm A,17,Suited,
+Farm A,18,Suited,
+Farm A,19,Jumping,
+Farm A,20,Intrusion,Uma borboleta entrou no corredor e assustou o animal.
+Farm A,21,Fail,
+Farm A,22,Suited,
+Farm A,23,Suited,
+Farm A,24,Suited,
+Farm A,25,Suited,
+Farm A,26,Suited,
+Farm A,27,Suited,"Animal ficou de frente para o corredor querendo sair, o que faz com que a postura dele mude"
+Farm A,28,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,29,Suited,
+Farm A,30,Fail,
+Farm A,31,Fail,
+Farm A,32,Fail,
+Farm A,33,Suited,
+Farm A,34,Fail,
+Farm A,35,Suited,Deu uma quebradinha de pescoço
+Farm A,36,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,37,Suited,Claramente o animal passa correndo. Seria um desafio para as coletas live?
+Farm A,38,Suited,
+Farm A,39,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,40,Suited,
+Farm A,41,Suited,
+Farm A,42,Suited,"Muito vento, o que faz a vegetação e a tela usada no corredor se movimentar bastante."
+Farm A,43,Suited,
+Farm A,44,Suited,
+Farm A,45,Suited,Em alguns frames parece que as orelhas somem. Acredito que o animal joga para trás
+Farm A,46,Suited,
+Farm A,47,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,48,Suited,
+Farm A,49,Suited,
+Farm A,50,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,51,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,52,Jumping,O primeiros frame completo parece que ele ainda está rente ao chão; 
+Farm A,53,Suited,
+Farm A,54,Suited,
+Farm A,55,Suited,
+Farm A,56,Suited,
+Farm A,57,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,58,Suited,"Muito vento, o que faz a vegetação e a tela usada no corredor se movimentar bastante."
+Farm A,59,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,60,Suited,"Animal ficou de frente para o corredor querendo sair, o que faz com que a postura dele mude"
+Farm A,61,Suited,
+Farm A,62,Suited,Rabo passa balançando bastante
+Farm A,63,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,64,Suited,Claramente o animal passa correndo e a postura dele muda bastante entre os frames (cabeça e rabo; outra sem rabo parecendo uma bola etc)
+Farm A,65,Suited,
+Farm A,66,Suited,
+Farm A,67,Suited,"Animal ficou de frente para o corredor querendo sair, o que faz com que a postura dele mude"
+Farm A,68,Fail,
+Farm A,69,Fail,
+Farm A,70,Fail,
+Farm A,71,Fail,
+Farm A,72,Suited,O animal passa correndo e a postura dele muda bastante entre os frames (cabeça e rabo; outra sem rabo parecendo uma bola etc)
+Farm A,73,Suited,"- Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+- Rabo passa balançando bastante"
+Farm A,74,Jumping,"- O animal passa correndo e a postura dele muda bastante entre os frames
+- O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; "
+Farm A,75,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,76,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,77,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,78,Suited,"- Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+- O animal passa correndo"
+Farm A,79,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,80,Fail,
+Farm A,81,Fail,
+Farm A,82,Suited,
+Farm A,83,Fail,
+Farm A,84,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,85,Suited,
+Farm A,86,Suited,
+Farm A,87,Suited,
+Farm A,88,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,89,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,90,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,91,Fail,
+Farm A,92,Suited,
+Farm A,93,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,94,None,
+Farm A,95,Suited,A cor do animal se confunde com a cor do fundo; certamente seria dificil segmentar por cor
+Farm A,96,Suited,"- Animal passa correndo
+- Um animal preto; será se a cor pode impactar mesmo na depth?"
+Farm A,97,Suited,Animal passa correndo
+Farm A,98,Suited,Animal passa correndo
+Farm A,99,Suited,
+Farm A,100,Fail,
+Farm A,101,Suited,"Mesmo caminhando, a postura do animal muda bastante (pernas, corpo, orelhas)"
+Farm A,102,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão."
+Farm A,103,Suited,
+Farm A,104,Suited,
+Farm A,105,Suited,
+Farm A,106,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,107,Suited,
+Farm A,108,Suited,"Observando, quando eles correm é como se tivessem dando uns pulinhos; mais uma info pra essa análise do animal passar correndo"
+Farm A,109,Jumping,O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+Farm A,110,Jumping,"- Aparentemente, nenhum frame em que ele está rente ao chão.
+- O pé de quem fotografa aparece tbm"
+Farm A,111,Jumping,"- O animal pulo da metade do corredor para frente; Nos primeiros frames parece que ele ainda está rente ao chão; 
+- O pé de quem fotografa aparece tbm"
+Farm B,112,Testing,
+Farm B,113,Testing,
+Farm B,114,Testing,
+Farm B,115,Suited,
+Farm B,116,Suited,
+Farm B,117,Suited,Quebradinha no pescoço
+Farm B,118,Suited,
+Farm B,119,Suited,Animal voltando; provavelmente o mesmo do job anterior
+Farm B,120,Suited,
+Farm B,121,Fail,
+Farm B,122,Fail,
+Farm B,123,Suited,
+Farm B,124,Suited,
+Farm B,125,Suited,
+Farm B,126,Suited,
+Farm B,127,Suited,Animal passou correndo
+Farm B,128,Intrusion,Animal volta no meio do corredor e aparece os braços da pessoa que está o reconduzingo
+Farm B,129,Intrusion,Animal volta no meio do corredor e aparece os braços da pessoa que está o reconduzingo
+Farm B,130,Suited,
+Farm B,131,Fail,
+Farm B,132,Fail,
+Farm B,133,Fail,
+Farm B,134,Suited,
+Farm B,135,Suited,Animal passou correndo
+Farm B,136,Suited,Animal passou correndo
+Farm B,137,Suited,"Animal volta no meio do corredor, depois segue novamente"
+Farm B,138,Suited,Animal passou correndo
+Farm B,139,Suited,Animal volta no meio do corredor
+Farm B,140,None,Animal volta antes de ficar completo na cena; acredito que o mesmo do job anterior
+Farm B,141,Suited,
+Farm B,142,Fail,
+Farm B,143,Suited,Animal passou correndo
+Farm B,144,Suited,
+Farm B,145,Suited,
+Farm B,146,Suited,Animal passou correndo
+Farm B,147,Suited,
+Farm B,148,Suited,
+Farm B,149,Suited,Animal voltando; o mesmo do job anterior
+Farm B,150,Suited,
+Farm B,151,Fail,
+Farm B,152,Fail,
+Farm B,153,Suited,
+Farm B,154,Suited,
+Farm B,155,Suited,
+Farm B,156,Suited,
+Farm B,157,Suited,
+Farm B,158,Suited,
+Farm B,159,Suited,
+Farm B,160,Jumping,"O animal pulo no final do corredor; na vdd, da área em que a camera captura"
+Farm B,161,Suited,
+Farm B,162,Fail,
+Farm B,163,Suited,
+Farm B,164,Suited,
+Farm B,165,Suited,
+Farm B,166,Suited,
+Farm B,167,Suited,
+Farm B,168,Suited,
+Farm B,169,Suited,
+Farm B,170,Suited,Animal passou correndo
+Farm B,171,Fail,
+Farm B,172,Intrusion,Nos últimos frames aparece os braços de alguém
+Farm B,173,Suited,
+Farm B,174,Suited,O animal faz um retorno no meio do corredor
+Farm B,175,Suited,O animal passou correndo
+Farm B,176,Intrusion,Nos últimos frames aparece os braços de alguém
+Farm B,177,Suited,
+Farm B,178,Suited,
+Farm B,179,Suited,
+Farm B,180,Fail,
+Farm B,181,Fail,
+Farm B,182,Suited,
+Farm B,183,Suited,O animal passou correndo
+Farm B,184,Suited,
+Farm B,185,Suited,
+Farm B,186,Suited,O animal passou correndo
+Farm B,187,Suited,O animal fez um retorno no meio do caminho
+Farm B,188,Suited,
+Farm B,189,Suited,O animal passou correndo
+Farm B,190,Fail,
+Farm B,191,Fail,
+Farm B,192,Suited,
+Farm B,193,Suited,
+Farm B,194,Suited,O animal passou correndo
+Farm B,195,Suited,O animal passou correndo
+Farm B,196,Suited,O animal fez um retorno no meio do caminho
+Farm B,197,Suited,
+Farm B,198,Suited,
+Farm B,199,Suited,
+Farm B,200,Fail,
+Farm B,201,Fail,
+Farm B,202,Suited,
+Farm B,203,Suited,
+Farm B,204,Suited,O animal fez um retorno no meio do caminho
+Farm B,205,Suited,
+Farm B,206,Suited,
+Farm B,207,Fail,
+Farm B,208,Suited,
+Farm B,209,Suited,O animal fez um retorno no meio do caminho
+Farm B,210,Suited,O animal passou correndo
+Farm B,211,Fail,
+Farm B,212,Fail,
+Farm B,213,Suited,
+Farm B,214,Suited,
+Farm B,215,Suited,O animal passou correndo
+Farm B,216,Suited,O animal passou correndo
+Farm B,217,Suited,O animal passou correndo
+Farm B,218,Suited,O animal passou correndo
+Farm B,219,Suited,
+Farm B,220,Suited,
+Farm B,221,Suited,O animal fez um retorno no meio do caminho
+Farm B,222,Suited,Obs: parece que tem uma imagem de um animal diferente na pasta
+Farm B,223,Suited,
+Farm B,224,Suited,
+Farm B,225,Suited,O animal passou correndo
+Farm B,226,None,
+Farm B,227,Fail,
+Farm B,228,Fail,
+Farm B,229,Fail,
+Farm B,230,Fail,
+Farm B,231,Fail,
+Farm B,232,Fail,
+Farm B,233,Fail,
+Farm B,234,Fail,
+Farm B,235,Fail,
+Farm B,236,Fail,
+Farm B,237,Fail,
+Farm B,238,Fail,
+Farm B,239,Fail,
+Farm B,240,Fail,
+Farm B,241,Fail,
+Farm B,242,Suited,Animal entre de costas
+Farm B,243,Suited,
+Farm B,244,Suited,
+Farm B,245,Suited,Animal passou correndo
+Farm B,246,Suited,
+Farm B,247,Suited,
+Farm B,248,Suited,
+Farm B,249,None,
+Farm B,250,Suited,
+Farm B,251,Suited,
+Farm B,252,Suited,
+Farm B,253,Suited,Parece que tem um animal pequeno correndo em alguns frames
+Farm A,254,Testing,
+Farm A,255,Testing,
+Farm A,256,Suited,
+Farm A,257,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão"
+Farm A,258,Suited,
+Farm A,259,None,
+Farm A,260,Suited,
+Farm A,261,None,O animal refuga no inicio do corredor
+Farm A,262,Suited,
+Farm A,263,Suited,
+Farm A,264,Suited,
+Farm A,265,Suited,Animal passou correndo
+Farm A,266,Suited,
+Farm A,267,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,268,Fail,
+Farm A,269,Fail,
+Farm A,270,Suited,
+Farm A,271,Suited,
+Farm A,272,Suited,Percebe-se uma clara mudança de cor na imagem RGB. Teria sido alguma nuvem?
+Farm A,273,Suited,Tela balança muito
+Farm A,274,Jumping,O animal pulo no final do corredor
+Farm A,275,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão"
+Farm A,276,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão"
+Farm A,277,Suited,
+Farm A,278,Suited,
+Farm A,279,Jumping,O animal pulo no final do corredor
+Farm A,280,Suited,
+Farm A,281,None,Animal pula na tela e tenta sair do corredor
+Farm A,282,Suited,Animal dá uma corrida no final do corredo
+Farm A,283,Suited,
+Farm A,284,Fail,
+Farm A,285,Fail,
+Farm A,286,Fail,
+Farm A,287,Fail,
+Farm A,288,Fail,
+Farm A,289,Fail,
+Farm A,290,Fail,
+Farm A,291,Fail,
+Farm A,292,Fail,
+Farm A,293,Suited,
+Farm A,294,Suited,
+Farm A,295,Suited,
+Farm A,296,Suited,
+Farm A,297,Suited,Leva um susto no final do corredor e muda de direção lateralmente de forma muito rápida
+Farm A,298,Suited,
+Farm A,299,Jumping,"Aparentemente, nenhum frame em que ele está rente ao chão"

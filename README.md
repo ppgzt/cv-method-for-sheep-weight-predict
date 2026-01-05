@@ -1,8 +1,11 @@
-# Collie
+# A Computer Vision Approach for Predicting Sheep Body Weight in Livestock Farms ~ Supplementary Files
 
-This project contains ...
+This repository contains the metadata and code pipeline used to carried out the study named **A Computer Vision Approach for Predicting Sheep Body Weight in Livestock Farms** and are composed of four folders:
 
-## Instalação
+- **lib**: a set of organized and documented functions used throughout the research.
+- **data**: contains metadata collected during data acquisition. *Raw images are no available!*
+- **experiment**: hold the *notebook* used to perform the stages proposed in the study.
 
-1. Antes de iniciar, instale as dependência do Python usando o requirements.txt
-2. Baixa o arquivo .zip com as imagens por meio do link informado e descompacte dentro da pasta data/source.
+## Install instructions
+
+1. Before starting, install the Python dependencies using the requirements.txt file.

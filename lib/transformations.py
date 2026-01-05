@@ -4,6 +4,9 @@ Module responsible for implementing the preprocessing transformations applied in
 import tensorflow as tf
 import numpy as np
 
+"""
+Transforms the shape from (240, 320, 1) to (240, 320, 3), only replicating the channel content.
+"""
 class Replicate1DtoNDimChannel:
 
     def __init__(self, dim: int):
@@ -19,6 +22,9 @@ class Replicate1DtoNDimChannel:
 
         return g
         
+"""
+Change all pixels with values ​​greater than 1950 to the value 1950 (which corresponds to the node height). Values ​​greater than this threshold are likely noise.
+"""
 class NoiseRemovalSetMaxValue:
 
     def __init__(self, max_value: int):
@@ -35,6 +41,9 @@ class NoiseRemovalSetMaxValue:
 
         return g
 
+"""
+Adjust the scale to 0-1, basically dividing the value of each pixel by 1950 (which is the maximum value).
+"""
 class AdjustScaleWithFixedMaxValue:
 
     def __init__(self, max_value: int):
@@ -46,6 +55,9 @@ class AdjustScaleWithFixedMaxValue:
         
         return data
 
+"""
+Resize the image to (300, 300), using the **resize-with-padding** strategy;
+"""
 class ResizeImageWithPadding:
 
     def __init__(self, shape: tuple):

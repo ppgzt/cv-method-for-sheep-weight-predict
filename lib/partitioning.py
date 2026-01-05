@@ -33,7 +33,7 @@ class SplitBySingleFieldLogic:
             field_name
         ).size().reset_index()
         
-        train_samples = ['Jarbson']
+        train_samples = ['Farm B']
     
         grouped_by_field['partition'] = grouped_by_field[field_name].apply(
             lambda x: "train" if x in train_samples else "test"
